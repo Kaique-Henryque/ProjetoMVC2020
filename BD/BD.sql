@@ -17,7 +17,7 @@ drop table dt_clienteD26;
 
 drop database ProjetoMVCD26;
 
-insert into dt_clienteD26() values(1,'a','a','a','a','a','a',1);
+insert into dt_clienteD26() values(1,'a','a','a','a','1','a',1);
 
 select * from dt_clienteD26 where nome_cliente = 'Kaique' && sobrenome_cliente = 'Henryque';
 
